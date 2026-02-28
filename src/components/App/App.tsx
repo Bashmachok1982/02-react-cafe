@@ -3,7 +3,7 @@ import css from "./App.module.css";
 import { FaReact } from "react-icons/fa";
 
 import type { Votes, VoteType } from "../../types/votes";
-import { CafeInfo } from "../СafeInfo/CafeInfo";
+import { CafeInfo } from "../CafeInfo/CafeInfo";
 import VoteOptions from "../VoteOptions/VoteOptions";
 import VoteStats from "../VoteStats/VoteStats";
 import Notification from "../Notification/Notification";
